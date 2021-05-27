@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite,Chrome 83.0.4103.97,,,11/6/2020 9:59,11/6/2020 10:00,25.993s,PASSED
+,,,,,,,
+Test Cases/Test123,Chrome 83.0.4103.97,,,11/6/2020 9:59,11/6/2020 10:00,13.879s,PASSED
+,,,,,,,
+Test Cases/Test123,Chrome 83.0.4103.97,,,11/6/2020 10:00,11/6/2020 10:00,11.724s,PASSED

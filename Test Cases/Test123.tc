@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test123</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cd98693-290e-4e02-a8e4-9c21c33fe8c8</testCaseGuid>
+   <variable>
+      <defaultValue>'Username'</defaultValue>
+      <description></description>
+      <id>6eba4431-7d71-4e3f-ae79-66201beddb5d</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password'</defaultValue>
+      <description></description>
+      <id>a20c9d97-6fe9-492d-8e1a-b9c60e1bf96f</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sno'</defaultValue>
+      <description></description>
+      <id>a267b789-1470-43d0-8283-1217a7d3f233</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+</TestCaseEntity>
